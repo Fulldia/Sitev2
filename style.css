@@ -1,0 +1,64 @@
+body{
+	background-color: black;
+}
+
+#page{
+	position: absolute;
+	background-color: white;
+	width: 68em;
+	height: 500em;
+	margin-left: 13em;
+	margin-right: 16em;
+	margin-top: 15em;
+
+}
+
+#citro{
+	position: absolute;
+	margin-left: 2em;
+	margin-top: 5em;	
+	transform: rotate(-30deg);
+}
+
+#banane{
+	position: absolute;
+	margin-left: 60em;
+	transform: rotate(45deg);
+}
+
+#poste{
+	position: absolute;
+	margin-left: -4em;
+	margin-top: 35em;
+	transform: rotate(-5deg);
+}
+
+#tournesol{
+	position: absolute;
+	margin-left: 70em;
+	margin-top: 40em;	
+}
+#abeille{
+	position: absolute;
+	margin-left: -1em;
+	margin-top: 70em;	
+	transform: rotate(5deg);
+}
+#ananas{
+	position: absolute;
+	margin-left: 78em;
+	margin-top: 70em;	
+	transform: rotate(4deg);
+}
+#pacman{
+	position: absolute;
+	margin-left: 75em;
+	margin-top: 103em;	
+
+}
+#gilet{
+	position: absolute;
+	margin-left: -2em;
+	margin-top: 103em;	
+	transform: rotate(-8deg);
+}
